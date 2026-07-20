@@ -11,7 +11,7 @@ const messages = [
     "💰 i wish u the same amount of money u have in gta 5 💸",
     "🍀 i wish u the strenght to climb any mountain u want 🏔",
     "🪼 and a billion oceans to dive into 🪸",
-    "///"
+    "🫶🏿 i hope u get that freaking audi 🚜"
 ];
 
 let litCandles = 0;
